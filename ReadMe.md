@@ -1,8 +1,10 @@
 # 💫 About Me:
 I am a Linux user. I'm dealing with Cyber Security. <br>I'm a website designer and developer.My e-mail:01Kevin0110@proton.me
 ![10kasim](https://github.com/01Kevin01/01kevin01/assets/131346373/dfc9673b-6283-40ca-aba4-926b728783ff)
+
 Büyük önder Mustafa Kemal Atatürk'ü özlem ve saygıyla anıyorum. Onun önderliğindeki devrimlerle ve fikirlerle kurulan Türkiye Cumhuriyeti'ne olan bağlılığımız,projelerimiz ve fikirlerimiz her daim devam edecektir...
 ![giphy](https://github.com/01Kevin01/01kevin01/assets/131346373/8e6497c1-0ac6-4a60-8fc8-fc3ea1c654f4)
+
 Hayatta en hakiki mürşit ilimdir.
 -Gazi Mustafa Kemal Atatürk
 Türkiye Cumhuriyeti'nin 100. yılını coşkuyla kutlarken, Gazi Mustafa Kemal Atatürk'ün önderliğinde kazandığımız bu büyük zaferi gurur ve minnetle anıyorum. Cumhuriyet Bayramımız kutlu olsun!
