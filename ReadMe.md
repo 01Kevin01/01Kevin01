@@ -8,6 +8,7 @@ Büyük önder Mustafa Kemal Atatürk'ü özlem ve saygıyla anıyorum. Onun ön
 Hayatta en hakiki mürşit ilimdir.
 -Gazi Mustafa Kemal Atatürk
 Türkiye Cumhuriyeti'nin 100. yılını coşkuyla kutlarken, Gazi Mustafa Kemal Atatürk'ün önderliğinde kazandığımız bu büyük zaferi gurur ve minnetle anıyorum. Cumhuriyet Bayramımız kutlu olsun!
+
 ![th-3150350701](https://github.com/01Kevin01/01kevin01/assets/131346373/edd3b44b-6f85-4c53-acbb-03ed5870b76f)
 
 # 💻 Tech Stack:
@@ -27,4 +28,4 @@ Türkiye Cumhuriyeti'nin 100. yılını coşkuyla kutlarken, Gazi Mustafa Kemal 
 ![](https://github-contributor-stats.vercel.app/api?username=01Kevin01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=01Kevin01&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=01Kevin01&icon=0&color=0)](#)
