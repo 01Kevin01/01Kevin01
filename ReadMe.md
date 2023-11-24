@@ -33,7 +33,8 @@ Türkiye Cumhuriyeti'nin 100. yılını coşkuyla kutlarken, Gazi Mustafa Kemal 
 ![](https://github-contributor-stats.vercel.app/api?username=01Kevin01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<img src="https://raw.githubusercontent.com/01kevin01/01kevin01/output/snake.svg" alt="Snake animation" />
+<img src="![snake](https://github.com/01Kevin01/01kevin01.github.io/assets/131346373/73b8ed73-a0ca-48c9-aaa8-d655e918379b)
+" alt="Snake animation" />
 
 ###
 
