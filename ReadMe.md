@@ -33,4 +33,3 @@ Türkiye Cumhuriyeti'nin 100. yılını coşkuyla kutlarken, Gazi Mustafa Kemal 
 ![](https://github-contributor-stats.vercel.app/api?username=01Kevin01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=01Kevin01&icon=0&color=0)](#)
