@@ -29,5 +29,11 @@ Türkiye Cumhuriyeti'nin 100. yılını coşkuyla kutlarken, Gazi Mustafa Kemal 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=01Kevin01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+<img src="https://raw.githubusercontent.com/01kevin01/01kevin01/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=01Kevin01&icon=0&color=0)](#)
